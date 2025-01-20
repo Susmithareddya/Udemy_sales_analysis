@@ -1,4 +1,4 @@
-### Sales Analysis of Udemy Courses
+### Exploratory Data Analysis of Udemy Sales Trends
 
 This repository contains an exploratory data analysis (EDA) project on sales and popularity trends of courses available on Udemy. The analysis leverages a dataset of 10,000 business-related courses to uncover insights such as course popularity, pricing strategies, and subscriber trends.
 
